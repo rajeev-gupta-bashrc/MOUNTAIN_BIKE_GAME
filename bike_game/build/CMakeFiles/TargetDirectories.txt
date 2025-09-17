@@ -1,3 +1,0 @@
-/home/rajeev-gupta/Desktop/OutlierAI/bike_game/build/CMakeFiles/BikeRiderGame.dir
-/home/rajeev-gupta/Desktop/OutlierAI/bike_game/build/CMakeFiles/edit_cache.dir
-/home/rajeev-gupta/Desktop/OutlierAI/bike_game/build/CMakeFiles/rebuild_cache.dir
